@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Charmi22/Charmi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a passionate Business Analyst with over 5 years of experience in the banking sector, specializing in the management of critical banking applications. I thrive on transforming data into actionable insights and collaborating across teams to drive success.
 
 - 🌍 I'm based in Toronto, ON
